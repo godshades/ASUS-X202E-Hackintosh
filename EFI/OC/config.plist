@@ -24,6 +24,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>DSDT-BAT.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>SSDT-PM.aml</string>
 				<key>Enabled</key>
 				<true/>
@@ -1507,7 +1515,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v alcid=13 keepsyms=1 debug=0x100 uia_exclude=HP23</string>
+				<string>-v alcid=12 keepsyms=1 debug=0x100 uia_exclude=HP23</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
