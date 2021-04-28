@@ -3,8 +3,9 @@
 
 ## Not working
 ```
-Sleep
-Airdrop
+Webcam - Need patching
+Airdrop - Need change card
+Fn function - Not all work, need patching
 ```
 
 ## Resource
